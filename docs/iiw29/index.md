@@ -1,3 +1,7 @@
+### [View on GitHub](https://github.com/OR13/did.ai)
+
+These are meant to be presented in person. If you have questions, please open an issue on github.
+
 ### Transmute ID
 
 - [Onboarding & Agent Authorization](https://drive.google.com/file/d/1haT6TSRtxDOQAUhXQQGRvr3m6k8pPi63/view?usp=sharing)
@@ -18,7 +22,8 @@
 
 ### Yubikey DID
 
-- [Recorded Demo](https://drive.google.com/file/d/1krgx8eLB9rFqvoTMx6hgb8d6KE8ESetF/view?usp=sharing)
+- [GPG Suite CLI Issue VC ](https://drive.google.com/file/d/1krgx8eLB9rFqvoTMx6hgb8d6KE8ESetF/view?usp=sharing)
+- [Universal Resolver Verify VC](https://drive.google.com/file/d/1c5Poeu0zngirI91PaOMDeAJR-9PyH16C/view?usp=sharing)
 - [Spec](https://identity.foundation/OpenPgpSignature2019/)
 - [Github Repo](https://github.com/decentralized-identity/OpenPgpSignature2019)
 
@@ -31,3 +36,4 @@
 ### Interoperability Project
 
 - [Github Repo](https://github.com/decentralized-identity/interoperability)
+- [Universal Resolver, Verifiable Credentials CLI Demo](https://drive.google.com/file/d/153gytuAbRsrIFfTNOjuYlGOcwJl1fUCp/view?usp=sharing)
