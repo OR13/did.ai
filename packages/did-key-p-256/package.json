@@ -1,0 +1,19 @@
+{
+  "name": "did-key-p-256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "base64url-universal": "^1.1.0",
+    "isomorphic-webcrypto": "^2.3.2",
+    "multibase": "^0.6.0"
+  }
+}
