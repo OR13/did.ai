@@ -39,7 +39,10 @@ function App(props) {
 
   const screens = {
     "Tab 1": { tab: <Tab1 />, fab: { color: "primary", actions } },
-    "Tab 2": { tab: <Tab2 />, fab: { color: "primary", actions } },
+    "Tab 2": {
+      tab: <Tab2 hello={props.hello} />,
+      fab: { color: "primary", actions }
+    },
     ["Peers"]: {
       tab: (
         <PeersTab

@@ -76,7 +76,6 @@ import { DataTable } from "./DataTable";
 // });
 
 function PeersTab({ hello, doOpenAddPeerDialog, onPeerAdd }) {
-  console.log(hello);
   return (
     <React.Fragment>
       <AddPeerDialog
